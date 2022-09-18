@@ -1,0 +1,12 @@
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\bin\Debug\net6.0\OperationLibrary.deps.json
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\bin\Debug\net6.0\OperationLibrary.dll
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\bin\Debug\net6.0\OperationLibrary.pdb
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.csproj.AssemblyReference.cache
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.AssemblyInfoInputs.cache
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.AssemblyInfo.cs
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.dll
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\refint\OperationLibrary.dll
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\OperationLibrary.pdb
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\OperationLibrary\obj\Debug\net6.0\ref\OperationLibrary.dll

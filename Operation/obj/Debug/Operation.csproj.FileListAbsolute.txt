@@ -1,0 +1,6 @@
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\bin\Debug\Operation.dll
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\bin\Debug\Operation.pdb
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\obj\Debug\Operation.csproj.AssemblyReference.cache
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\obj\Debug\Operation.dll
+C:\Users\Ibaldo\Documents\UNLAM\4to Cuatrimestre\Programacion Avanzada\Introduccion\Calculadora\Operation\obj\Debug\Operation.pdb
